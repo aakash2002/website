@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+Hey! I'm Aakash a 4th year doing a specialist in Computer Science and Minor in Statistics. Currently debating whether I should do a Major in Statistics or not.
 
-```{r}
-1 + 1
-```
+I'm interested in potentially pursuing research in the field of Reinforcement Learning and am excited to learn more about it.
+
+Outside of work, I like to go to the gym, cook and play badminton. I'm trying to get back into running and wish to oneday run a marathon.

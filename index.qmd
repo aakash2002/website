@@ -2,10 +2,14 @@
 title: "Aakash Vaithyanathan"
 ---
 
-This is a Quarto website.
+![ProfilePic](Images/pfp.png){width=300,height=300,fig-align="center"}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hey I am Aakash, welcome to my website!
 
-```{r}
-1 + 1
-```
+If you'd like to know a bit about me, checkout the *About* page.
+
+Thanks for checking out my page :)
+
+Here's my ![GitHub](https://github.com/aakash2002) page.
+
+
