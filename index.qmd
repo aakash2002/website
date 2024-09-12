@@ -2,14 +2,6 @@
 title: "Aakash Vaithyanathan"
 ---
 
-![ProfilePic](Images/pfp.png){width=300,height=300,fig-align="center"}
-
 Hey I am Aakash, welcome to my website!
 
 If you'd like to know a bit about me, checkout the *About* page.
-
-Thanks for checking out my page :)
-
-Here's my ![GitHub](https://github.com/aakash2002) page.
-
-
